@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 20px;
+}
+
+#survey-info {
+justify-content: center;
+}
