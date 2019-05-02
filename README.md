@@ -20,3 +20,5 @@ Let's build up that fitness website!
     - If we want to go the extra mile, perhaps include an API on fitness or nutrition that the User can log information about
 - Lasty, it would be nice if we can store the User information on the website. That way once they close the tab and reopen it, or visit the website later, all of their survey fitness info is there and it caters to the Users needs.
     - "I don't know much about database management but hey it is all a learning curve. I will get in on that." Raf
+
+-Im shooting for saturday, to spend on this project. Thanks for taking the initiative! For the survey we can start with a Buzzfeed type because I think that is easier. I cant wait to see what this turns out to be.
