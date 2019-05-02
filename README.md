@@ -1,2 +1,2 @@
 # JSGame
-Test out collaborating a game using JavaScript
+I will try to learn how to put code here lol. 
